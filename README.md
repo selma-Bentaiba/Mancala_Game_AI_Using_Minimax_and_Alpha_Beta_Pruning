@@ -23,7 +23,6 @@ This project implements a smart AI opponent using **Minimax algorithm with Alpha
 ---
 
 ## **🧩 Features**  
-<br>
 - ✅ **Minimax Algorithm**: Implements adversarial search to determine the best moves.  
 - ✅ **Alpha-Beta Pruning**: Optimizes the search by reducing unnecessary computations.  
 - ✅ **Two Game Modes**:  
@@ -70,13 +69,12 @@ pip install pygame
   ```  
 
 ---
-🌟 Fun Fact!
-Mancala dates back thousands of years and is one of the oldest known board games! 🎲
-
-
 ## **🤖 Future Improvements**  
 - 🔹 **Enhanced Heuristics**: Improve the evaluation function for smarter AI decisions.  
 - 🔹 **GUI**: Add a graphical interface using Pygame for better user experience.  
 - 🔹 **Performance Optimization**: Optimize the Minimax algorithm for faster decision-making.  
 
+---
+🌟 Fun Fact!
+Mancala dates back thousands of years and is one of the oldest known board games! 🎲
 ---
